@@ -1,0 +1,17 @@
+TESTES !
+
+teste 1 
+
+fizemos uma função para verificar se tinha todos os 20000 numeros gerados
+
+teste 2 
+
+fizemos uma função para verificar se a lista estava ordenada
+
+teste 3 
+
+fizemos uma função para verificar se as converções de pesos estavam corretas
+
+teste 4
+
+fizemos uma função para verificar se as funções de listar, adicionar e remover livros estavam funcionando corretamente
